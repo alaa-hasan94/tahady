@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "349812889695",
+    "project_id": "tahady",
+    "storage_bucket": "tahady.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349812889695:android:995c636dd03d158272e3ea",
+        "android_client_info": {
+          "package_name": "com.iq.tahady"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349812889695-k72kebp8j0q3sqf0g9dn65937ljut8sc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iq.tahady",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "349812889695-vdqrp45a8e1volatd98f5nm8el1lf38s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iq.tahady",
+            "certificate_hash": "35d173e8b2fceef32ed45217fa6066199c0d9707"
+          }
+        },
+        {
+          "client_id": "349812889695-9jvtj541jtiln8g7s18qi4btvi2r6fov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3eGjfEMk5nMDqEscbdNsN-GXLOK8GkVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349812889695-9jvtj541jtiln8g7s18qi4btvi2r6fov.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "349812889695-4nak8fofga10hsapr19utnqkjmlfisj6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.iq.tahady"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
